@@ -1,0 +1,16 @@
+.slider_body {
+	background-color: #aaa;
+}
+.slider_main {
+	max-width: 800px; 
+	margin: 20px auto
+}
+.order_number {
+	border: 1px solid #000; 
+	width: 25px; 
+	display: inline-block; 
+	margin-bottom: 4px;
+}
+.order_number:hover {
+    cursor: pointer;
+}
